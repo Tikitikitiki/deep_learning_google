@@ -2,6 +2,8 @@
 *.pickle
 *.tar.gz
 *.zip
+notMNIST_large/*
+notMNIST_small/*
 
 # jupyter notebook
 .ipynb_checkpoints
