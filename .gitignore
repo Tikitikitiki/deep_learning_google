@@ -2,9 +2,16 @@
 *.pickle
 *.tar.gz
 *.zip
+*.mat
+
 notMNIST_large/*
 notMNIST_small/*
+test/*
+train/*
 
 # jupyter notebook
 .ipynb_checkpoints
+
+# articles
+*.pdf
 
